@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1734533664660,
+      "tag": "0000_neat_ultimatum",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1734535638516,
+      "tag": "0001_robust_wolverine",
+      "breakpoints": true
+    }
+  ]
+}
